@@ -1,0 +1,27 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.title-wrapper {
+	background-image:url(http://take7xx.xsrv.jp/wp-content/uploads/2017/10/-e1520318869570.jpg);
+	height: 900px;
+	background-size:cover;
+	width: cover;
+	margin: 0 auto;
+}
+
+h1 {
+		font-size: 90px;
+		font-family:serif;
+		width: 300px;
+		margin: 0 auto;
+		padding-top: 150px;
+		color:black;
+}
+
+p {
+		color:black;
+		font-family:serif;
+		width: 400px;
+		margin: 0 auto;
+}
